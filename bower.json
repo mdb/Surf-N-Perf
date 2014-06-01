@@ -1,0 +1,12 @@
+{
+  "name": "surfnperf",
+  "version": "1.0.0",
+  "main": "surfnperf.js",
+  "keywords": ["performance", "metrics"],
+  "ignore": [
+    "node_modules"
+  ],
+  "dependencies": {
+    "underscore": "1.6.0"
+  }
+}
